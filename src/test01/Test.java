@@ -235,6 +235,7 @@ public class Test {
 			System.out.println("as zice ca Sigur nu esti Iisus");
 		}
 
+<<<<<<< HEAD
 		System.out.println("dada");
 		
 		// testam switch
