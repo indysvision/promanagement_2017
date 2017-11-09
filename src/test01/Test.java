@@ -235,6 +235,8 @@ public class Test {
 			System.out.println("as zice ca Sigur nu esti Iisus");
 		}
 
+		System.out.println("da");
+		
 		// testam switch
 		switch (varsta) {
 		case 33:
