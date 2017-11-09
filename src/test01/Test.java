@@ -235,9 +235,6 @@ public class Test {
 			System.out.println("as zice ca Sigur nu esti Iisus");
 		}
 
-<<<<<<< HEAD
-=======
->>>>>>> caludiu
 		
 		// testam switch
 		switch (varsta) {
