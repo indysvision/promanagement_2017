@@ -236,7 +236,6 @@ public class Test {
 		}
 
 <<<<<<< HEAD
-		System.out.println("dada");
 =======
 >>>>>>> caludiu
 		
