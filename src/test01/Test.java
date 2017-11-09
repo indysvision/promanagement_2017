@@ -237,6 +237,9 @@ public class Test {
 
 <<<<<<< HEAD
 		System.out.println("dada");
+=======
+		System.out.println("dada da");
+>>>>>>> caludiu
 		
 		// testam switch
 		switch (varsta) {
